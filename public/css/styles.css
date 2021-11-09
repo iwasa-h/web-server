@@ -1,0 +1,19 @@
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid gold;
+}
+
+button {
+    padding: 7px;
+    border: 1px solid gold;
+    color:green;
+    background-color: tomato;
+}
